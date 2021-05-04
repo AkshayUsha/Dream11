@@ -6,3 +6,4 @@ This Dream 11 kind of clone is to give player cue to select their best possible 
 npm install
 npm start 
 react-native start android
+Created for Global Use by Akshay Gupta
